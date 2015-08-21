@@ -59,7 +59,7 @@ bye
 
 ## Development
 
-There is a Makefile for convience. The targets are:
+There is a Makefile for convenience. The targets are:
 
 * crforth: Build the executable. This is the default.
 
