@@ -77,4 +77,4 @@ There is a Makefile for convience. The targets are:
 
 ## Contributors
 
-- [russolsen](https://github.com/[russolsen]) Russ Olsen - creator, maintainer
+- [russolsen](https://github.com/russolsen) Russ Olsen (@russolsen) - creator, maintainer
